@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423535702885",
+    "project_id": "infraguard-app-64d44",
+    "storage_bucket": "infraguard-app-64d44.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423535702885:android:b1a738796d4b7d2cfae78c",
+        "android_client_info": {
+          "package_name": "com.example.uee_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkuvkxvNw35jfrwx4Ruy0jJqQ39f5CWAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

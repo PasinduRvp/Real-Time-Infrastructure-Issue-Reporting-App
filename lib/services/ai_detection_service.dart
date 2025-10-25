@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:google_generative_ai/google_generative_ai.dart';
 
 class AIDetectionService {
-  static const String _apiKey = 'AIzaSyD3edDK5--6gKp8aPeQKISAUGupe4KqX5s';
+  static const String _apiKey = '';
   late final GenerativeModel _model;
 
   AIDetectionService() {

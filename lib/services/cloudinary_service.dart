@@ -8,9 +8,9 @@ class CloudinaryService {
 
   CloudinaryService() {
     cloudinary = Cloudinary.signedConfig(
-      cloudName: 'dolnzsbuo', //  Cloudinary cloud name
-      apiKey: '627298635292858', //  Cloudinary API key
-      apiSecret: 'j6Bm3COiXhNwxcYumr2RdrMBpGc', //  Cloudinary API secret
+      cloudName: '', //  Cloudinary cloud name
+      apiKey: '', //  Cloudinary API key
+      apiSecret: '', //  Cloudinary API secret
     );
   }
 
